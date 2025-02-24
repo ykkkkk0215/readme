@@ -84,6 +84,8 @@ https://apps.apple.com/jp/app/%E3%81%B5%E3%82%8B%E3%82%B5%E3%82%A4%E3%82%B3%E3%8
 
 •上の面を正確に検出し、正しい出目を判定
 
+[![Image from Gyazo](https://i.gyazo.com/37b42e97d3a398525ef1eead4f01215d.gif)](https://gyazo.com/37b42e97d3a398525ef1eead4f01215d)
+
 
 
 ### 制作期間
